@@ -1,0 +1,7 @@
+Device Number	Device Type	Time of Request	Temperature	Device Alert		Device Status	Device Path	Route Signal Strength	 Last Polled (mins ago)
+ 1           Contact Sensor         14:7         23            DEACTIVATED                ['Normal']        1-0-0          None,None,-68.0                  1.0 
+ 3               PIR Sensor         14:7         24            DEACTIVATED                ['Normal']        3-0-0          None,None,-53.0                  1.0 
+ 4               PIR Sensor         14:7         23            DEACTIVATED                ['Normal']        4-0-0          None,None,-60.5                  1.0 
+ 6           Contact Sensor         14:7         24            DEACTIVATED                ['Normal']        6-0-0          None,None,-48.5                  2.5 
+ 7           Contact Sensor         14:7         24              ACTIVATED                ['Normal']        7-0-0          None,None,-51.5                  2.0 
+ 8           Contact Sensor         14:7         24            DEACTIVATED                ['Normal']        8-0-0          None,None,-72.0                  3.5 
