@@ -8,5 +8,5 @@ def SignalStrength(signal):
         elif(int_signal<128):
             dB_signal.append((int_signal)/2 - 74)
         if(int_signal==0):
-            dB_signal[i]=None
+            dB_signal[i]=0
     return(dB_signal)
